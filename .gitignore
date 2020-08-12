@@ -6,6 +6,8 @@ __pycache__/
 # C extensions
 *.so
 
+# my studd
+dump.py
 # Distribution / packaging
 .Python
 build/
