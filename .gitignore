@@ -7,7 +7,7 @@ __pycache__/
 *.so
 
 # my studd
-dump.py
+# dump.py
 # Distribution / packaging
 .Python
 build/
